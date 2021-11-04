@@ -1,6 +1,6 @@
 # Nash Framework
 
-The Nash Framework is an early-stage application engine, designed primarily for the development of server-side CLI applications. Currently, litte features have been implemented. 
+The Nash Framework is an early-stage application engine, designed primarily for the development of server-side CLI applications. Currently, little features have been implemented. 
 
 ## Getting started with Nash
 
