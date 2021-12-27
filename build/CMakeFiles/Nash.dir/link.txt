@@ -1,2 +1,0 @@
-/bin/ar qc libNash.a  CMakeFiles/Nash.dir/src/main.cpp.o
-/bin/ranlib libNash.a
