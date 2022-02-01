@@ -18,7 +18,6 @@ The plan for Nash, is mostly to create both an independent, open-source server-s
 ## Features still to come:
 <ul>
 <li>Faster app compilation (in fact, compilation at all)</li>
-<li>Support for Android and iOS</li>
 <li>Custom API</li>
 <li>Fully featured editor application(s)</li>
 <li>Fully documented interaction and behaviour</li>
