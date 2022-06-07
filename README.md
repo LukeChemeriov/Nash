@@ -1,3 +1,9 @@
+# Warning - This project has been officially discontinued by DDC Dev
+
+
+
+
+
 # Nash Framework
 
 The Nash Framework is an early-stage application engine, designed primarily for the development of server-side CLI applications. Currently, little features have been implemented. 
